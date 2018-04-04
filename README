@@ -1,1 +1,4 @@
 Simple version of traceroute program.
+
+Usage:
+./main "ip-address" (e.g. ./main 8.8.8.8)
